@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pokeGuesser/static/css/main.2f503ca2.css",
+    "main.js": "/pokeGuesser/static/js/main.7cb98c44.js",
+    "static/media/pokeBackground.png": "/pokeGuesser/static/media/pokeBackground.e77cd19d9c994936e69f.png",
+    "static/media/PokemonGb-RAeo.ttf": "/pokeGuesser/static/media/PokemonGb-RAeo.6211ee48ea626f34681e.ttf",
+    "index.html": "/pokeGuesser/index.html",
+    "main.2f503ca2.css.map": "/pokeGuesser/static/css/main.2f503ca2.css.map",
+    "main.7cb98c44.js.map": "/pokeGuesser/static/js/main.7cb98c44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f503ca2.css",
+    "static/js/main.7cb98c44.js"
+  ]
+}
